@@ -72,7 +72,7 @@ We've written a Node.js script to allow you to easily update both the authoring 
 
 **IMPORTANT**: 
 - Before upgrading, make sure to first remove the `node_modules` folder and re-install the dependencies to ensure that you get the correct package dependencies for the updated code.
-- Also please consult the [CHANGELOG](https://github.com/adaptlearning/adapt_authoring/blob/update-changelog/CHANGELOG.md) for the release you're upgrading to; any extra upgrade instructions will be noted here.
+- Also please consult the [CHANGELOG](https://github.com/adaptlearning/adapt_authoring/blob/master/CHANGELOG.md) for the release you're upgrading to; any extra upgrade instructions will be noted here.
 
 ```javascript
 npm install --production
